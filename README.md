@@ -7,9 +7,8 @@
 ## Installation
 ```
 git clone https://github.com/lukahosting/python-http-server` 
-sudo apt-get install python-tk
 ```
-![image](https://github.com/lukacoder/pardus-gcc-installer/assets/101480197/12d2979e-bb82-44d4-aa62-f8e1e13fca56)
+![image](https://github.com/lukahosting/python-http-server/Ekran-görüntüsü 2023-06-18 14-35-19.png)
 
 ## Getting Started
 
